@@ -1,3 +1,5 @@
 # hello-world
 just another repository
-hi
+ readme-edits
+hello
+You ever wonder why we are here?
